@@ -1,4 +1,4 @@
-# DESCRIPTION
+# Description
 This repo implements following: 
 
 - Differential Dynamic Programming (DDP) controller using `autograd` package. 
