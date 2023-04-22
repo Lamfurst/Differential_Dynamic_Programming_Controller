@@ -12,13 +12,13 @@ This repo implements following:
 # Demos
 
 ## Cartpole Control (DDP)
-<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/cartpole_best.gif" width="300" height="auto" />
+<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/cartpole_best.gif"/>
 
 ## Swing-up Control (DDP)
-<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/ddp_double_pendulum.gif" width="300" height="auto" />
+<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/ddp_double_pendulum.gif"/>
 
 ## Swing-up Control (MPPI)
-<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/mppi_double_pendulum.gif" width="300" height="auto" />
+<img src="https://github.com/Lamfurst/Differential_Dynamic_Programming_Controller/blob/main/visual_result/mppi_double_pendulum.gif"/>
 
 
 # Getting Started
